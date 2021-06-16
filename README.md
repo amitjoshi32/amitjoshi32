@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Amit Joshi
+- 👋 Hi, I’m Dr. Amit Joshi
 - 👀 I’m interested in ...sharing and learning codes
 - 🌱 I’m currently working as ...Assistant Professor Biotechnology (Invertis University, Bareilly, U.P, India)
 - 💞️ I’m looking to collaborate on ... Immunoinformatics and Bioinformatics data analytics
